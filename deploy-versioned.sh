@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-ECR_REGISTRY="038304770060.dkr.ecr.us-east-1.amazonaws.com"
+ECR_REGISTRY="492683309070.dkr.ecr.us-east-1.amazonaws.com"
 ECR_REPO="bia"
 CLUSTER="cluster-bia"
 SERVICE="service-bia"
